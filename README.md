@@ -1168,3 +1168,7 @@ function initThemeToggle() {
 document.addEventListener('DOMContentLoaded', function () {
   initThemeToggle();
 });
+cd "C:\Users\james\Desktop\FreshFrame Studio\freshFrame Studio\.vscode"
+git add -A
+git commit -m "Prepare site for GitHub Pages: rename assets, accessibility, docs/ site"
+git push
